@@ -1,7 +1,7 @@
 /* write your override styles here */
 
 .tag-1 {
-  background: black;
+  background: black !important;
   z-index: 7;
   display: block;
 }
