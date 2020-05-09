@@ -3,6 +3,6 @@
 #wwall .tag-1 {
   display: none;
 }
-.tag-1, #tag-2, #tag-3, #tag-4, #tag-5, #tag-6, #tag-7 {
-  position: inherit !override;
+#wall .tag-1, #tag-2, #tag-3, #tag-4, #tag-5, #tag-6, #tag-7 {
+  display: none;
 }
