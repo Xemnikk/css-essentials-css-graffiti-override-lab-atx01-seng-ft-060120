@@ -9,7 +9,7 @@
 div#wall #tag-2 {
   display: none;
 }
-bodydiv#wall #tag-3 .slick{
+body div#wall #tag-3 .slick{
   display: none;
 }
 div .parent #tag-4 {
@@ -20,4 +20,7 @@ div#wall div.parent #tag-5.slick{
 }
 body div#wall div.parent div:last-child div#tag-6 {
   display: none;
+}
+body div#wall div.parent div > #tag-7.slick {
+  
 }
